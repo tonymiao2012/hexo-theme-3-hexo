@@ -1,6 +1,6 @@
 hexo-theme-3-hexo
 ================
-3-hexo 是为 [hexo](https://github.com/tommy351/hexo) 制作的主题。三段式设计、方便。你可以点击: [我的博客](https://yelog.org/) 查看效果
+3-hexo 是为 [hexo](https://github.com/tommy351/hexo) 制作的主题。三段式设计、方便。你可以点击: [我的博客](https://www.tonymiao.com/) 查看效果
 
 如果想要体验手机浏览效果，可以扫以下二维码：
 
@@ -21,7 +21,7 @@ hexo-theme-3-hexo
 
 ## 安装
 ```bash
-git clone https://github.com/yelog/hexo-theme-3-hexo.git themes/3-hexo
+git clone https://github.com/tonymiao2012/hexo-theme-3-hexo.git themes/3-hexo
 ```
 修改hexo根目录的`_config.yml`，如下
 ```yaml
